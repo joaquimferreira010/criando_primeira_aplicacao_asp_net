@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31529.145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoMVC", "CursoMVC\CursoMVC.csproj", "{E594550A-51C5-45EC-9D99-6EE5A817C3C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAPI", "CursoAPI\CursoAPI.csproj", "{43581FC5-061C-49F1-A0D7-D15DF6BD3AA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoTest", "CursoTest\CursoTest.csproj", "{96DC7490-F57B-4B2E-BC3B-D9133EBEAB2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E594550A-51C5-45EC-9D99-6EE5A817C3C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E594550A-51C5-45EC-9D99-6EE5A817C3C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E594550A-51C5-45EC-9D99-6EE5A817C3C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E594550A-51C5-45EC-9D99-6EE5A817C3C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43581FC5-061C-49F1-A0D7-D15DF6BD3AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43581FC5-061C-49F1-A0D7-D15DF6BD3AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43581FC5-061C-49F1-A0D7-D15DF6BD3AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43581FC5-061C-49F1-A0D7-D15DF6BD3AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96DC7490-F57B-4B2E-BC3B-D9133EBEAB2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DC7490-F57B-4B2E-BC3B-D9133EBEAB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DC7490-F57B-4B2E-BC3B-D9133EBEAB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DC7490-F57B-4B2E-BC3B-D9133EBEAB2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {793E273F-1929-411C-8920-7B2874A263A1}
+	EndGlobalSection
+EndGlobal
